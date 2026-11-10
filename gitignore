@@ -1,0 +1,21 @@
+# ArcGIS Pro / Python
+*.pyc
+__pycache__/
+*.pyt.xml
+*.tbx
+*.lock
+
+# ArcGIS scratch / working data
+*.gdb/
+*.sde
+scratch*/
+Index/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
